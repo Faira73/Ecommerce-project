@@ -4,6 +4,7 @@ import '../components/Header.css';
 export function OrdersPage() {
     return (
         <>  
+            <link rel="icon" type="image/svg+xml" href="orders-favicon.png" />
             <title>OrdersPage</title>
             <Header />
 
